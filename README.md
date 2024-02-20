@@ -1,3 +1,3 @@
-# mip
+# go-mip
 
-Nextmv MIP modeling
+MIP modeling with Go.
