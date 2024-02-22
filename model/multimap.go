@@ -1,3 +1,4 @@
+// Package model contains modeling functionality.
 package model
 
 import (
