@@ -1,3 +1,5 @@
+// © 2019-present nextmv.io inc
+
 /*
 Package mip provides a general interface for solving mixed integer linear
 optimization problems using a variety of back-end solvers. The base interface is

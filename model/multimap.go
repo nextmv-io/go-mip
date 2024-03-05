@@ -1,3 +1,5 @@
+// © 2019-present nextmv.io inc
+
 // Package model contains modeling functionality.
 package model
 

@@ -1,3 +1,5 @@
+// © 2019-present nextmv.io inc
+
 // Package mip holds the implementation of the sdk/mip package.
 package mip
 
