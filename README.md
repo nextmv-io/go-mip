@@ -17,3 +17,11 @@ The implementation is provided by other (solver-specific) packages, e.g.:
 
 For further information on how to get started with MIP modeling and Nextmv,
 please refer to the [official documentation](https://docs.nextmv.io/docs/mixed-integer-programming).
+
+## Versioning
+
+We try our best to version our software thoughtfully and only break APIs and
+behaviors when we have a good reason to.
+
+- Minor (`v1.^.0`) tags: new features, might be breaking.
+- Patch (`v1.0.^`) tags: bug fixes.
