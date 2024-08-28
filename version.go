@@ -10,7 +10,7 @@ import (
 //go:embed VERSION
 var version string
 
-// Version returns the version of the nextroute module.
+// Version returns the version of the mip module.
 func Version() string {
 	return strings.TrimSpace(version)
 }
