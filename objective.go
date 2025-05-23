@@ -140,7 +140,7 @@ func (o *objective) IsLinear() bool {
 }
 
 func (o *objective) IsQuadratic() bool {
-	return o.quadraticTerms != nil && len(o.quadraticTerms) > 0
+	return len(o.quadraticTerms) > 0
 }
 
 func (o *objective) Term(variable Var) (Term, int) {
